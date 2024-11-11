@@ -1,3 +1,5 @@
-# tp2  ---Data_groupe---
+# tp2 
+
+data groupe
 
 Takouche abdeldjalil §§ Mitiche houssem
