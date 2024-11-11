@@ -1,2 +1,2 @@
 # tp2
-Takouche abdeldjalil  &amp; Mitiche houssem
+Takouche abdeldjalil §§ Mitiche houssem
